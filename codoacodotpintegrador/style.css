@@ -1,0 +1,105 @@
+
+
+
+#opaco{
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+}
+
+.navbar{
+    min-height:90px ;
+}
+
+
+.imagenC{
+width: 9rem ;
+}
+
+.nav-item :hover{
+    color: seagreen !important;
+   
+}
+
+
+#quieroOrador{
+   display: inline-block;
+   position: absolute ;
+top: 80%;
+ left: 60%;
+ background-color:transparent;
+ border-color: dimgrey;
+}
+#ComprarT{
+    display: inline-block;
+background-color: rgb(69, 202, 76);
+border-color: rgb(69, 202, 76);
+}
+
+
+#c{
+display: flex;
+align-items: flex-end !important
+
+}
+#oradores{
+    display: flex;
+    justify-content: center;
+}
+
+.oradores{
+display: flex ;
+justify-content: center;
+
+}
+
+
+
+.card-texts{
+font-size: 1.5rem;
+font-weight: 500;
+color: white;     
+position: absolute;
+top: 40%;
+ left: 60%;
+text-shadow: 0 0 0 10px rgba(0,0,0,0.8);
+}
+
+
+
+
+.btn{
+    position: absolute ;
+top: 80%;
+ left: 80%
+}
+.btnn{
+    position: absolute;
+top: 80%;
+ left: 65%
+
+
+}
+
+.botonform{
+    display: inline-block;
+    background-color: rgb(117, 223, 120);
+    color:white;
+    border-radius: 5px;
+   
+    
+    
+    
+  
+}
+.TextoAntesdeForm{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.formulario{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
